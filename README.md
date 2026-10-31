@@ -1,5 +1,7 @@
 # polite-fetch
 
+[![tests](https://github.com/ShendLlapashtica/polite-fetch/actions/workflows/test.yml/badge.svg)](https://github.com/ShendLlapashtica/polite-fetch/actions/workflows/test.yml)
+
 **Stop your visitors getting IP-banned by a third-party API.**
 
 If your page fetches a third-party API **directly from the browser** — because
