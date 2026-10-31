@@ -1,0 +1,13 @@
+{
+  "name": "polite-fetch",
+  "version": "1.0.0",
+  "description": "Keep browser-side requests to a third-party API from getting the visitor rate-limited or IP-banned: request pacing, a circuit breaker, and redirect-based block detection. Zero dependencies.",
+  "type": "module",
+  "main": "index.js",
+  "exports": { ".": "./index.js" },
+  "files": ["index.js", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "keywords": ["rate-limit","rate-limiting","throttle","pacing","circuit-breaker","fetch","browser","cors","ip-ban","backoff","retry-after","client-side","third-party-api","scraping","resilience"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
